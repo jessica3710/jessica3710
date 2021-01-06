@@ -1,7 +1,7 @@
-### Hi there 👋
 
 <!--
 **jessica3710/jessica3710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey! Welcome to my Github :)
+### Hey, you! Welcome to my Github :)
 
-#Who am I?
+# Who am I?
 My name's Jessica Zheng and I am currently in my freshman year studying Software Engineering at the University of Waterloo! 
 
 
