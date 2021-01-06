@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey! Welcome to my Github :)
+
+##Who am I?
+My name's Jessica Zheng and I am currently in my freshman year studying Software Engineering at the University of Waterloo! 
+
+
 ![](https://komarev.com/ghpvc/?username=jessica3710&color=orange)
