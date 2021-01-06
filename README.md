@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hey! Welcome to my Github :)
 
-##Who am I?
+#Who am I?
 My name's Jessica Zheng and I am currently in my freshman year studying Software Engineering at the University of Waterloo! 
 
 
