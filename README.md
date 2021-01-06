@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Who am I?
 - My name's Jessica Zheng 
 - Currently in my freshman year studying Software Engineering at the University of Waterloo
-- Besides coding, passionate about sports and photography
+- Besides coding, passionate about sports, photography and volunteering around the community
 - Currently learning Android Development in Java & Kotlin! 
 <!-- tools, languages, frameworks -->
 
