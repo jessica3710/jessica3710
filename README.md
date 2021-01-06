@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/jessica3710/) and find my website [here](https://jessicazheng.com)
 
 
-![](https://komarev.com/ghpvc/?username=jessica3710&color=orange)
