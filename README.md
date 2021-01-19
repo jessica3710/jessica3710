@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - My name's Jessica Zheng 
 - Currently in my freshman year studying Software Engineering at the University of Waterloo
 - Besides coding, I'm passionate about sports, photography and volunteering around the community
-- Currently working on Android Development in Java & Kotlin! 
+- Currently working on Android Development in Java & Kotlin! Check out my recently published [app](https://play.google.com/store/apps/details?id=com.zhengineer.curlingclock) !
 
 ### Technology & Tools
 - **Languages:** Java, Kotlin, C, JavaScript, XML, HTML, CSS, Node.js
