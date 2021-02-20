@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey, you! Welcome to my Github :)
+# Hey, you! Welcome to my GitHub :)
 
 ### Who am I?
 - My name's Jessica Zheng 
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - **Frameworks/Libraries:** Firebase, Android, p5.js, ml5.js, Socket.io, Boostrap
 
 ## Wanna chat?
-Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/jessica3710/) and find my website [here](https://jessicazheng.com)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jessica3710/) and find my website [here](https://jessicazheng.com)
 
 
