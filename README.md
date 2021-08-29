@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - Currently working on Android Development in Java & Kotlin! Check out my recently published [app](https://play.google.com/store/apps/details?id=com.zhengineer.curlingclock) !
 
 ### Technology & Tools
-- **Languages:** Java, Kotlin, C, JavaScript, XML, HTML, CSS, Node.js
-- **Tools:** Git, Linux, IntelliJ, Android Studio, VS Code, JUnit, Gradle
-- **Frameworks/Libraries:** Firebase, Android, p5.js, ml5.js, Socket.io, Boostrap
+- **Languages:** Java, Kotlin, JavaScript, C, HTML, CSS, C++
+- **Tools:** Git, Linux, IntelliJ, Android Studio, Valgrind, GDB, Gradle, JUnit
+- **Frameworks/Libraries:** Android, React Native, Node.js, Firebase, Arduino
 
 ## Wanna chat?
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jessica3710/) and find my website [here](https://jessicazheng.com)
