@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Technology & Tools
 - **Languages:** Java, Kotlin, JavaScript, C, HTML, CSS, C++
 - **Tools:** Git, Linux, IntelliJ, Android Studio, Valgrind, GDB, Gradle, JUnit
-- **Frameworks/Libraries:** Android, React Native, Node.js, Firebase, Arduino
+- **Technologies/Platforms:** Android, React Native, Node.js, Firebase, Arduino
 
 ## Wanna chat?
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jessica3710/) and find my website [here](https://jessicazheng.com)
