@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Who am I?
 - My name's Jessica Zheng 
-- Second year software engineering student at the University of Waterloo
+- Third year software engineering student at the University of Waterloo
 - Besides coding, I'm passionate about sports, photography and volunteering around the community
 - Currently working on Android Development in Kotlin! Check out my recently published [app](https://play.google.com/store/apps/details?id=com.zhengineer.curlingclock) !
 
